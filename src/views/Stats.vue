@@ -13,18 +13,18 @@
           suffix="members"
           icon="telegram.png"
           :loading="loading"
-          link="https://t.me/realSpencerWoo"
+          link="https://t.me/NewlearnerChannel"
         />
-        <statCard
+        <!-- <statCard
           statTitle="即刻"
           :followers="jike"
           suffix="被关注"
           icon="jike.png"
           :loading="loading"
           link="https://m.okjike.com/users/4DDA0425-FB41-4188-89E4-952CA15E3C5E"
-        />
+        /> -->
       </div>
-      <div class="row-container">
+      <!-- <div class="row-container">
         <statCard
           statTitle="RSS 订阅"
           :followers="rss"
@@ -41,8 +41,8 @@
           :loading="loading"
           link="https://sspai.com/u/spencerwoo/posts"
         />
-      </div>
-      <div class="row-container">
+      </div> -->
+      <!-- <div class="row-container">
         <statCard
           statTitle="微博"
           :followers="weibo"
@@ -59,16 +59,16 @@
           :loading="loading"
           link="https://www.zhihu.com/people/spencer-woo-64"
         />
-      </div>
+      </div> -->
       <div class="row-container">
-        <statCard
+        <!-- <statCard
           statTitle="Twitter"
           :followers="twitter"
           suffix="followers"
           icon="twitter.png"
           :loading="loading"
           link="https://twitter.com/realSpencerWoo"
-        />
+        /> -->
         <statCard
           statTitle="GitHub"
           :followers="github"
@@ -78,7 +78,7 @@
           link="https://github.com/spencerwooo"
         />
       </div>
-      <div class="row-container">
+      <!-- <div class="row-container">
         <statCard
           statTitle="Medium"
           :followers="medium"
@@ -95,13 +95,13 @@
           :loading="loading"
           link="https://steamcommunity.com/id/firebearllc/"
         />
-      </div>
+      </div> -->
     </div>
 
-    <div id="substats-footer">
+    <!-- <div id="substats-footer">
       * Follower statistics powered by:
       <a href="https://api.spencerwoo.com/substats">Substats</a>.
-    </div>
+    </div> -->
   </div>
 </template>
 

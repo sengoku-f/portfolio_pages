@@ -1,27 +1,27 @@
 <template>
   <div class="container">
     <img id="avatar" alt="avatar" src="./../assets/images/icon.jpg" />
-    <h1>Spencer Woo</h1>
+    <h1>Donxj</h1>
     <h2>👨‍🎨 👨‍💻 🙋‍♂️</h2>
 
-    <p>开发者 / 设计师 / 少数派 / 学生</p>
-    <p>
+    <p>UI 设计师</p>
+    <!-- <p>
       * creator of
       <a href="https://dowww.spencerwoo.com/">Dev on Windows with WSL</a>,
       <a href="https://api.spencerwoo.com/substats">Substats</a>, and
       <a href="https://bithesis.spencerwoo.com">BIThesis</a>
-    </p>
+    </p> -->
 
     <hr id="top-hr" />
     <h3>🎉 Where to find me:</h3>
     <div id="card-container">
       <Card
-        msg="少数派 sspai"
+        msg="画廊 ART"
         backgroundColor="#ca2c2a"
         description="✏️ 主要输出战场！"
         textColor="#FFFFFF"
         icon="sspai.png"
-        link="https://sspai.com/u/spencerwoo/posts"
+        link="https://art.donxj.com"
       />
       <Card
         msg="博客 Blog"
@@ -29,19 +29,19 @@
         description="📒 从头开始（咕咕咕）"
         textColor="#FFFFFF"
         icon="netlify.png"
-        link="https://blog.spencerwoo.com"
+        link="https://blog.donxj.com"
       />
-      <Card
+      <!-- <Card
         msg="GitHub"
         backgroundColor="#24292E"
         description="📦 我做过的项目都在这里"
         textColor="#FFFFFF"
         icon="github.png"
         link="https://github.com/spencerwooo"
-      />
+      /> -->
     </div>
 
-    <div id="others">
+    <!-- <div id="others">
       <hr />
       <h3>你还可以在这些地方偶尔发现一只我：</h3>
       <div class="social-media">
@@ -68,7 +68,7 @@
         </div>
       </div>
 
-      <!-- <p>🧨 感谢大哥的关注！给您拜年了！干杯 🍻</p> -->
+      <p>🧨 感谢大哥的关注！给您拜年了！干杯 🍻</p>
 
       <hr />
 
@@ -82,7 +82,7 @@
           alt="copyright"
         />
       </a>
-    </div>
+    </div> -->
   </div>
 </template>
 

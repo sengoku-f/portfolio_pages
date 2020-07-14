@@ -7,7 +7,7 @@
     <hr id="top-hr" />
     <div class="article">
       <p>
-        大家好，我是 Spencer Woo，正在北京理工大学就读 CS 专业，目前我的研究方向是：The Robustness of Adversarial
+        大家好，我是 Donxj，正在北京理工大学就读 CS 专业，目前我的研究方向是：The Robustness of Adversarial
         Examples。我将于 2021 年初（淦，被迫 gap (⊙x⊙;)）前往英国
         <a href="https://www.gla.ac.uk/">UofG</a> 攻读
         <a href="https://www.gla.ac.uk/postgraduate/taught/computingsciencemsc/">MSc in Computing Science</a
@@ -119,17 +119,17 @@
       </ul>
 
       <h2>联系我</h2>
-      <p>
+      <!-- <p>
         欢迎大家直接订阅我的发布，详情请参考：
         <router-link to="/subscribe">Spencer Woo - Subscribe</router-link>
-      </p>
+      </p> -->
       <p>我的联系方式：</p>
       <ul>
         <li>
           📫 邮箱：
-          <a href="mailto:spencerwoo98@gmail.com">spencerwoo98#gmail.com</a>
+          <a href="mailto:i.donxj@gmail.com">i.donxj@gmail.com</a>
         </li>
-        <li>📍 Beijing Institute of Technology, Beijing, China</li>
+        <li>📍 Guangzhou Institute of Technology, Guangzhou, China</li>
       </ul>
     </div>
   </div>
