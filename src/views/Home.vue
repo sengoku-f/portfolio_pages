@@ -31,14 +31,14 @@
         icon="netlify.png"
         link="https://blog.donxj.com"
       />
-      <!-- <Card
+      <Card
         msg="GitHub"
         backgroundColor="#24292E"
         description="📦 我做过的项目都在这里"
         textColor="#FFFFFF"
         icon="github.png"
-        link="https://github.com/spencerwooo"
-      /> -->
+        link="https://github.com/"
+      />
     </div>
 
     <!-- <div id="others">
