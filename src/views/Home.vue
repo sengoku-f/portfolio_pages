@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <img id="avatar" alt="avatar" src="./../assets/images/icon.jpg" />
+    <img id="avatar" alt="avatar" src="https://cdn.jsdelivr.net/gh/sengoku-f/portfolio@vv1.0/src/assets/images/icon.jpg" />
     <h1>Donxj</h1>
     <h2>👨‍🎨 👨‍💻 🙋‍♂️</h2>
 
@@ -18,9 +18,9 @@
       <Card
         msg="画廊 ART"
         backgroundColor="#ca2c2a"
-        description="✏️ 主要输出战场！"
+        description="✏️ 我的艺术画廊"
         textColor="#FFFFFF"
-        icon="sspai.png"
+        icon="art.svg"
         link="https://art.donxj.com"
       />
       <Card
@@ -34,7 +34,7 @@
       <Card
         msg="GitHub"
         backgroundColor="#24292E"
-        description="📦 我做过的项目都在这里"
+        description="📦 我的仓库"
         textColor="#FFFFFF"
         icon="github.png"
         link="https://github.com/"

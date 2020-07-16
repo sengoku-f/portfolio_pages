@@ -2,38 +2,39 @@
   <div class="container">
     <h1>👓</h1>
     <h1>About</h1>
-    <p>这人是谁啊，这么牛逼哄哄的？</p>
+    <p>Hi, I'm Donxj 👋</p>
 
     <hr id="top-hr" />
     <div class="article">
       <p>
-        大家好，我是 Donxj，正在北京理工大学就读 CS 专业，目前我的研究方向是：The Robustness of Adversarial
-        Examples。我将于 2021 年初（淦，被迫 gap (⊙x⊙;)）前往英国
+        大家好，我是 Donxj，毕业于广州商学院艺术设计学院 视觉传达 专业，目前我的专业方向是 UI 设计与动画设计
+        <!-- 我将于 2021 年初（淦，被迫 gap (⊙x⊙;)）前往英国
         <a href="https://www.gla.ac.uk/">UofG</a> 攻读
-        <a href="https://www.gla.ac.uk/postgraduate/taught/computingsciencemsc/">MSc in Computing Science</a
+        <a href="https://www.gla.ac.uk/postgraduate/taught/computingsciencemsc/">MSc in Computing Science</a -->
         >。给大家鞠躬了。🙇
       </p>
 
       <h2>我的项目</h2>
       <p>
-        我所做过的项目几乎都开源于
-        <a href="https://github.com/spencerwooo">GitHub</a> 上面，欢迎大家 Star + Fork，笔芯 (✿◡‿◡)
+        我所做过的项目几乎都记录于
+        <a href="https://blog.donxj.com/about/">Blog</a> 上面，欢迎大家浏览，笔芯 (✿◡‿◡)
       </p>
 
       <GitHubCard
-        title="📟 Dev on Windows with WSL"
-        link="https://github.com/spencerwooo/dowww"
+        title="📟 小鹏汽车数字化触控屏"
+        link="https://blog.donxj.com/2020/07/12/小鹏汽车/"
         :info="dowwwInfo"
         :loading="loading"
       >
         <p>
-          Dev on Windows with WSL：在 Windows 上用 WSL 优雅开发。目前我关注量与 Star
-          数量最高的一个项目，主要介绍了如何在 Windows 10 中引进的 Windows Subsystem for Linux 中进行开发与工作。主站：
-          <a href="https://dowww.spencerwoo.com/">Dev on Windows with WSL</a>
+          小鹏汽车数字化触控屏：通过在显示屏上操作，360看车外观、内饰，选配颜色、配置、性能。了解小鹏汽车的充电、使用性能。并在后台进行充一管理、数据收集、更新。与CRM系统对接，获取有用数据，并应用到互动设备。
+        </p>
+        <p>
+          详情信息：<a href="https://blog.donxj.com/2020/07/12/小鹏汽车/">小鹏汽车数字化触控屏</a>
         </p>
       </GitHubCard>
 
-      <GitHubCard
+      <!-- <GitHubCard
         title="📈 Substats：快速统计你在各个平台的关注者"
         link="https://github.com/spencerwooo/Substats"
         :info="substatsInfo"
@@ -46,9 +47,9 @@
             >《做一个好看的数据展示「小标签」，在个人网站实时展示你的粉丝数》</a
           >
         </p>
-      </GitHubCard>
+      </GitHubCard> -->
 
-      <GitHubCard
+      <!-- <GitHubCard
         title="🥇 The Fully Anonymous Teaching Evaluation System"
         link="https://github.com/SecureCats/Evaluation_BackEnd"
         :info="fatesInfo"
@@ -61,9 +62,9 @@
             >什么时候「匿名」才是合理的？| 匿名评教平台复盘</a
           >
         </p>
-      </GitHubCard>
+      </GitHubCard> -->
 
-      <GitHubCard
+      <!-- <GitHubCard
         title="🎫 少数派作者名片 | 一个 JSBox 小组件"
         link="https://github.com/spencerwooo/jsbox-sspai-namecard"
         :info="sspaiCardInfo"
@@ -73,20 +74,20 @@
           适合新版本少数派的作者名片，搭建在 JSBox 上。推荐阅读：
           <a href="https://sspai.com/post/55562">新版少数派网站的作者成就墙好好看啊，于是我用它写了一个 JSBox 小插件</a>
         </p>
-      </GitHubCard>
+      </GitHubCard> -->
 
-      <GitHubCard
+      <!-- <GitHubCard
         title="🎃 我的 dotfiles"
         link="https://github.com/spencerwooo/dotfiles"
         :info="dotfilesInfo"
         :loading="loading"
       >
         <p>我的各种配置清单。从终端到 Vim，从 macOS 到 Windows，应有尽有。</p>
-      </GitHubCard>
+      </GitHubCard> -->
 
       <h2>我的设备</h2>
       <ul>
-        <li>
+        <!-- <li>
           主力台式机：Intel® NUC Kit NUC8I5BEK
           <ul>
             <li>
@@ -102,19 +103,18 @@
               <a href="https://sspai.com/post/54788">性能强劲的「迷你台式机」，Intel NUC 一周使用体验</a>
             </li>
           </ul>
-        </li>
-        <li>
+        </li> -->
+        <!-- <li>
           ThinkPad X1 Carbon 7th Gen：<a href="https://sspai.com/post/45742"
             >迁移到 Windows 后，我如何找回熟悉的 macOS 体验</a
           >
-        </li>
-        <li>12" MacBook (Early 2016)：观赏性质 > 实用价值</li>
-        <li>
+        </li> -->
+        <li>15.6" MacBook Pro</li>
+        <!-- <li>
           Sony 1000XM3： <a href="https://sspai.com/post/47794">降噪、音质、续航一网打尽：索尼 1000XM3 降噪耳机体验</a>
-        </li>
-        <li>iPhone XR</li>
-        <li>iPad Air 3rd Gen</li>
-        <li>Apple Watch Series 3</li>
+        </li> -->
+        <li>iPhone 8 Plus RED</li>
+        <li>iPad Pro 11" 2020</li>
         <li>AirPods Pro</li>
       </ul>
 
@@ -129,7 +129,7 @@
           📫 邮箱：
           <a href="mailto:i.donxj@gmail.com">i.donxj@gmail.com</a>
         </li>
-        <li>📍 Guangzhou Institute of Technology, Guangzhou, China</li>
+        <li>📍 Haizhu, Guangzhou, China</li>
       </ul>
     </div>
   </div>

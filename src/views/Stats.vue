@@ -75,7 +75,7 @@
           suffix="followers"
           icon="github.png"
           :loading="loading"
-          link="https://github.com/spencerwooo"
+          link="https://github.com/"
         />
       </div>
       <!-- <div class="row-container">
@@ -96,6 +96,7 @@
           link="https://steamcommunity.com/id/firebearllc/"
         />
       </div> -->
+      <main class="main" ></main>
     </div>
 
     <!-- <div id="substats-footer">
@@ -219,4 +220,9 @@ a {
   text-align: left;
   margin: 60px 0 0 0;
 }
+
+.main {
+  height: 100px;
+}
+
 </style>

@@ -57,8 +57,8 @@ export default {
 }
 
 #icon {
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: 40px;
   margin-left: auto;
   margin-right: 0px;
 }

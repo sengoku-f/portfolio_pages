@@ -71,8 +71,8 @@ export default {
         menuOptionsRight: [
           {
             type: 'button',
-            text: '🌟 ME ON GITHUB',
-            path: 'https://github.com/sengoku-f',
+            text: '🌟 MORE ABOUT ME',
+            path: 'https://blog.donxj.com/about/',
             class: 'button-github',
           },
         ],
@@ -96,7 +96,7 @@ export default {
   top: 0;
   left: 0;
   width: 100%;
-  height: 90%;
+  /* height: 90%; */
   z-index: -9999;
 }
 
