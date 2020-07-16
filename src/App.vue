@@ -96,12 +96,14 @@ export default {
   top: 0;
   left: 0;
   width: 100%;
-  /* height: 90%; */
+  height: 100%;
   z-index: -9999;
 }
 
 html,
 body {
+  width: 100%;
+  height: 100%;
   margin: 0;
   padding: 0;
 }
@@ -121,6 +123,7 @@ body {
   background-color: #fafafa;
   -webkit-animation: fade-in-bottom 0.4s cubic-bezier(0.39, 0.575, 0.565, 1) both;
   animation: fade-in-bottom 0.4s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+  height: 100%;
 }
 
 .container {
