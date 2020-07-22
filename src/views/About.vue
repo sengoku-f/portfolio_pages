@@ -21,7 +21,7 @@
       </p>
 
       <GitHubCard
-        title="📟 小鹏汽车数字化触控屏"
+        title="🥇 小鹏汽车数字化触控屏"
         link="https://blog.donxj.com/2020/07/12/小鹏汽车/"
         :info="dowwwInfo"
         :loading="loading"
@@ -34,20 +34,19 @@
         </p>
       </GitHubCard>
 
-      <!-- <GitHubCard
-        title="📈 Substats：快速统计你在各个平台的关注者"
-        link="https://github.com/spencerwooo/Substats"
+      <GitHubCard
+        title="🥇 上汽荣威门店数字化软件"
+        link="https://blog.donxj.com/2020/05/19/上汽荣威/"
         :info="substatsInfo"
         :loading="loading"
       >
         <p>
-          Substats 是一个非常方便易用的请求订阅者、粉丝、关注用户数量 API 服务，支持了包括
-          Feedly、GitHub、Twitter、即刻和少数派等 10 余个网站和服务，并用 Cloudflare 全球部署，飞速响应。少数派介绍：<a
-            href="https://sspai.com/post/59593"
-            >《做一个好看的数据展示「小标签」，在个人网站实时展示你的粉丝数》</a
-          >
+          使用数字化软件优化客户在展厅中的每一触点，打造深度互动、有参与感的展厅体验之旅，使客户体验及购买意向持续发酵并促成下订。
+          </p>
+        <p>
+          详情信息：<a href="https://blog.donxj.com/2020/05/19/上汽荣威/">上汽荣威门店数字化软件</a>
         </p>
-      </GitHubCard> -->
+      </GitHubCard>
 
       <!-- <GitHubCard
         title="🥇 The Fully Anonymous Teaching Evaluation System"

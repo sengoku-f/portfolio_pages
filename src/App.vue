@@ -21,9 +21,9 @@
         <div class="link">
           <router-link to="/about">ABOUT</router-link>
         </div>
-        <!-- <div class="link">
+        <div class="link">
           <router-link to="/subscribe">SUBSCRIBE</router-link>
-        </div> -->
+        </div>
         <div class="link">
           <router-link to="/stats">STATS</router-link>
         </div>
@@ -102,6 +102,7 @@ export default {
 
 html,
 body {
+  background-color: #fafafa;
   width: 100%;
   height: 100%;
   margin: 0;
