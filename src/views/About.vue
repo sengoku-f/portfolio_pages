@@ -7,11 +7,11 @@
     <hr id="top-hr" />
     <div class="article">
       <p>
-        大家好，我是 Donxj，毕业于广州商学院艺术设计学院 视觉传达 专业，目前我的专业方向是 UI 设计与动画设计
+        大家好，我是董行健，毕业于广州商学院艺术设计学院『视觉传达』专业，目前我的专业方向是 UI 设计与动画设计。同时写写 Python 代码工具。
         <!-- 我将于 2021 年初（淦，被迫 gap (⊙x⊙;)）前往英国
         <a href="https://www.gla.ac.uk/">UofG</a> 攻读
-        <a href="https://www.gla.ac.uk/postgraduate/taught/computingsciencemsc/">MSc in Computing Science</a -->
-        >。给大家鞠躬了。🙇
+        <a href="https://www.gla.ac.uk/postgraduate/taught/computingsciencemsc/">MSc in Computing Science</a> -->
+        给大家鞠躬了。🙇
       </p>
 
       <h2>我的项目</h2>
@@ -21,7 +21,42 @@
       </p>
 
       <GitHubCard
-        title="🥇 小鹏汽车数字化触控屏"
+        title="🥇 腾讯公益 H5 + 微信小程序"
+        link="https://blog.donxj.com/"
+        :info="fatesInfo"
+        :loading="loading"
+      >
+        <p>
+          2020我是创益人-海洋天堂计划，『漫游星星的秘密』H5、『暖暖骑士团』H5和『重返秦俑本色』微信小程序
+        </p>
+        <p>
+          『
+        <a href="https://www.boxonline.com.cn/H5speherViewer/">
+          漫游星星的秘密
+        </a>
+        』H5，我们希望唤醒更多公众，关注并参与到关怀自闭症儿童的公益事业中来。让公众进一步从正面、积极的角度了解自闭症儿童，感受Ta们的不一样。进一步传达壹基金海洋天堂计划陪伴、温暖，尽我所能，人人公益的愿景
+        </p>
+        <p>
+          『
+        <a href="https://www.boxonline.com.cn/H5WarmKnights/">
+          暖暖骑士团
+        </a>
+        』H5，经过 “免费午餐小善大爱‘”项目，过去7年的不断努力，贫困儿童的营养问题虽已得到一定改善，但我们希望这份爱与关怀能继续传递
+        </p>
+        <p>
+          『
+        <a href="https://oss.toponepower.com/qinyong/UI/小程序二维码.jpg_auto">
+          重返秦俑本色
+        </a>
+        』微信小程序通过强交互的小程序（小游戏），让更多人特别是年轻人，愿意主动了解和传播秦兵马俑的文化历史，呈现秦文化内涵，并能够引发大众关注。
+        </p>
+        <p>
+          详情信息：<a href="https://blog.donxj.com/">2020我是创益人-海洋天堂计划</a>
+        </p>
+      </GitHubCard>
+
+      <GitHubCard
+        title="🥇 小鹏汽车数字化触控屏（第二期）"
         link="https://blog.donxj.com/2020/07/12/小鹏汽车/"
         :info="dowwwInfo"
         :loading="loading"
@@ -48,20 +83,33 @@
         </p>
       </GitHubCard>
 
-      <!-- <GitHubCard
-        title="🥇 The Fully Anonymous Teaching Evaluation System"
-        link="https://github.com/SecureCats/Evaluation_BackEnd"
-        :info="fatesInfo"
+      <GitHubCard
+        title="🥇 解放碑商圈 3D 数字可视化系统"
+        link="https://blog.donxj.com/"
+        :info="substatsInfo"
         :loading="loading"
       >
         <p>
-          Secure Cats 团队作品：基于零知识证明和 CL 签名的匿名课程评价系统。这一评教系统参加了「2019
-          年大学生信息安全竞赛 —— 作品赛」，荣获国家级二等奖。推荐阅读：
-          <a href="https://medium.com/spencerweekly/recap-on-fates-d9d17a6a7827"
-            >什么时候「匿名」才是合理的？| 匿名评教平台复盘</a
-          >
+          以3D可视化数据大屏呈现商圈客流洞察，用户通过数据大屏可以直观了解商圈当前客流情况，商圈内客群画像。通过该数据大屏可助力商圈管理者实时了解商圈客流情况，及时应对客流异常。
+          </p>
+        <p>
+          详情信息：<a href="https://blog.donxj.com/">解放碑商圈 3D 数字可视化系统</a>
         </p>
-      </GitHubCard> -->
+      </GitHubCard>
+
+      <GitHubCard
+        title="🥇 长城 WEY来 微信小程序"
+        link="https://blog.donxj.com/"
+        :info="substatsInfo"
+        :loading="loading"
+      >
+        <p>
+          2019长城国际车展，使用微信小程序优化客户在展厅中的互动体验，相比于 H5，小程序可以实现讯息无中断，搭载更多功能。
+          </p>
+        <p>
+          详情信息：<a href="https://blog.donxj.com/">长城 WEY来 微信小程序</a>
+        </p>
+      </GitHubCard>
 
       <!-- <GitHubCard
         title="🎫 少数派作者名片 | 一个 JSBox 小组件"
