@@ -21,8 +21,22 @@
       </p>
 
       <GitHubCard
+        title="🥇 文字生成图片与印章 API 接口"
+        link="https://blog.donxj.com/腾讯公益-H5-微信小程序/#个人开发的-API"
+        :info="dowwwInfo"
+        :loading="loading"
+      >
+        <p>
+          因为『重返秦俑本色』中有用户输入名字然后生成印章海报的功能需求，所以开发了个 API。主要使用 Python 进行实现的，使用 Python 的 Python Imaging Library 库进行文字图片处理，用 flask 搭建 Web 应用框架，最后部署到阿里云服务器进行使用。期间还需要申请域名，申请域名 ssl 证书进行 https 加密
+        </p>
+        <p>
+          API链接：<a href="https://api.donxj.com/mktext?type=测试文字&pwd=111">文字生成图片 API</a>
+        </p>
+      </GitHubCard>
+
+      <GitHubCard
         title="🥇 腾讯公益 H5 + 微信小程序"
-        link="https://blog.donxj.com/"
+        link="https://blog.donxj.com/腾讯公益-H5-微信小程序/"
         :info="fatesInfo"
         :loading="loading"
       >
@@ -51,13 +65,13 @@
         』微信小程序通过强交互的小程序（小游戏），让更多人特别是年轻人，愿意主动了解和传播秦兵马俑的文化历史，呈现秦文化内涵，并能够引发大众关注。
         </p>
         <p>
-          详情信息：<a href="https://blog.donxj.com/">2020我是创益人-海洋天堂计划</a>
+          详情信息：<a href="https://blog.donxj.com/腾讯公益-H5-微信小程序/">2020我是创益人-海洋天堂计划</a>
         </p>
       </GitHubCard>
 
       <GitHubCard
         title="🥇 小鹏汽车数字化触控屏（第二期）"
-        link="https://blog.donxj.com/2020/07/12/小鹏汽车/"
+        link="https://blog.donxj.com/小鹏汽车/"
         :info="dowwwInfo"
         :loading="loading"
       >
@@ -65,13 +79,13 @@
           小鹏汽车数字化触控屏：通过在显示屏上操作，360看车外观、内饰，选配颜色、配置、性能。了解小鹏汽车的充电、使用性能。并在后台进行充一管理、数据收集、更新。与CRM系统对接，获取有用数据，并应用到互动设备。
         </p>
         <p>
-          详情信息：<a href="https://blog.donxj.com/2020/07/12/小鹏汽车/">小鹏汽车数字化触控屏</a>
+          详情信息：<a href="https://blog.donxj.com/小鹏汽车/">小鹏汽车数字化触控屏</a>
         </p>
       </GitHubCard>
 
       <GitHubCard
         title="🥇 上汽荣威门店数字化软件"
-        link="https://blog.donxj.com/2020/05/19/上汽荣威/"
+        link="https://blog.donxj.com/上汽荣威/"
         :info="substatsInfo"
         :loading="loading"
       >
@@ -79,13 +93,13 @@
           使用数字化软件优化客户在展厅中的每一触点，打造深度互动、有参与感的展厅体验之旅，使客户体验及购买意向持续发酵并促成下订。
           </p>
         <p>
-          详情信息：<a href="https://blog.donxj.com/2020/05/19/上汽荣威/">上汽荣威门店数字化软件</a>
+          详情信息：<a href="https://blog.donxj.com/上汽荣威/">上汽荣威门店数字化软件</a>
         </p>
       </GitHubCard>
 
       <GitHubCard
-        title="🥇 解放碑商圈 3D 数字可视化系统"
-        link="https://blog.donxj.com/"
+        title="🥇 解放碑商圈 3D 商圈客流洞察"
+        link="https://blog.donxj.com/解放碑商圈-3D-数据可视化大屏/"
         :info="substatsInfo"
         :loading="loading"
       >
@@ -93,13 +107,13 @@
           以3D可视化数据大屏呈现商圈客流洞察，用户通过数据大屏可以直观了解商圈当前客流情况，商圈内客群画像。通过该数据大屏可助力商圈管理者实时了解商圈客流情况，及时应对客流异常。
           </p>
         <p>
-          详情信息：<a href="https://blog.donxj.com/">解放碑商圈 3D 数字可视化系统</a>
+          详情信息：<a href="https://blog.donxj.com/解放碑商圈-3D-数据可视化大屏/">解放碑商圈 3D 商圈客流洞察</a>
         </p>
       </GitHubCard>
 
       <GitHubCard
         title="🥇 长城 WEY来 微信小程序"
-        link="https://blog.donxj.com/"
+        link="https://cdn.donxj.com/blog/长城-WEY来微信小程序/组合.jpg_auto"
         :info="substatsInfo"
         :loading="loading"
       >
@@ -107,7 +121,7 @@
           2019长城国际车展，使用微信小程序优化客户在展厅中的互动体验，相比于 H5，小程序可以实现讯息无中断，搭载更多功能。
           </p>
         <p>
-          详情信息：<a href="https://blog.donxj.com/">长城 WEY来 微信小程序</a>
+          详情信息：<a href="https://cdn.donxj.com/blog/长城-WEY来微信小程序/组合.jpg_auto">长城 WEY来 微信小程序</a>
         </p>
       </GitHubCard>
 
