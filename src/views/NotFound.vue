@@ -6,7 +6,7 @@
     <hr id="top-hr2" />
     <!-- <p class="not-found-container">You don't belong here.</p> -->
     <p>
-      <img class="bg" src="https://cdn.jsdelivr.net/gh/sengoku-f/portfolio@vv1.0/src/assets/images/404.png" alt="404" />
+      <img class="bg" src="./../assets/images/404.png" alt="404" />
       <router-link class="back-home" to="/">← Back home.</router-link>
     </p>
   </div>

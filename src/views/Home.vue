@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <img id="avatar" alt="avatar" src="https://cdn.jsdelivr.net/gh/sengoku-f/portfolio@vv1.0/src/assets/images/icon.jpg" />
+    <img id="avatar" alt="avatar" src="./../assets/images/icon.jpg" />
     <h1>Donxj</h1>
     <h2>👨‍🎨 👨‍💻 🙋‍♂️</h2>
 
