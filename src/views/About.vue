@@ -190,6 +190,10 @@
           📫 邮箱：
           <a href="mailto:i.donxj@gmail.com">i.donxj@gmail.com</a>
         </li>
+        <li>
+          🌟 微信：xchacha20 
+          <a href="https://cdn.donxj.com/blog/img/wechat_qr_code.jpg_auto">[点击查看二维码]</a>
+        </li>
         <li>📍 Haizhu, Guangzhou, China</li>
       </ul>
     </div>
