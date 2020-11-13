@@ -17,7 +17,7 @@
       <h2>我的项目</h2>
       <p>
         我所做过的项目几乎都记录于
-        <a href="https://blog.donxj.com/about/">Blog</a> 上面，欢迎大家浏览，笔芯 (✿◡‿◡)
+        <a href="https://blog.donxj.com/about/">我的 Blog</a> 上面，欢迎大家浏览，笔芯 (✿◡‿◡)
       </p>
 
       <GitHubCard
@@ -27,10 +27,10 @@
         :loading="loading"
       >
         <p>
-          因为『重返秦俑本色』中有用户输入名字然后生成印章海报的功能需求，所以开发了个 API。主要使用 Python 进行实现的，使用 Python 的 Python Imaging Library 库进行文字图片处理，用 flask 搭建 Web 应用框架，最后部署到阿里云服务器进行使用。期间还需要申请域名，申请域名 ssl 证书进行 https 加密
+          因为『重返秦俑本色』中有用户输入名字然后生成印章海报的功能需求，所以开发了个 <a href="https://api.donxj.com/mktext?type=测试文字&pwd=111&mu=1">API</a>。主要使用 Python 进行实现的，使用 Python 的 Python Imaging Library 库进行文字图片处理，用 flask 搭建 Web 应用框架，最后部署到阿里云服务器进行使用。期间还需要申请域名，申请域名 ssl 证书进行 https 加密。
         </p>
         <p>
-          API链接：<a href="https://api.donxj.com/mktext?type=测试文字&pwd=111">文字生成图片 API</a>
+          详情信息：<a href="https://blog.donxj.com/腾讯公益-H5-微信小程序/#个人开发的-API">文字生成图片 API</a>
         </p>
       </GitHubCard>
 
@@ -125,17 +125,17 @@
         </p>
       </GitHubCard>
 
-      <!-- <GitHubCard
-        title="🎫 少数派作者名片 | 一个 JSBox 小组件"
-        link="https://github.com/spencerwooo/jsbox-sspai-namecard"
+      <GitHubCard
+        title="🛠 实用工具合集 | Windows Automator"
+        link="https://github.com/sengoku-f/Win-Automator/"
         :info="sspaiCardInfo"
         :loading="loading"
       >
         <p>
-          适合新版本少数派的作者名片，搭建在 JSBox 上。推荐阅读：
-          <a href="https://sspai.com/post/55562">新版少数派网站的作者成就墙好好看啊，于是我用它写了一个 JSBox 小插件</a>
+          为提供自身的工作效率而写一些自用的小工具。推荐阅读：
+          <a href="https://blog.donxj.com/Windows-工具合集/">解放生产力，自动化的工具如何提高我的工作效率</a>
         </p>
-      </GitHubCard> -->
+      </GitHubCard>
 
       <!-- <GitHubCard
         title="🎃 我的 dotfiles"
@@ -171,9 +171,7 @@
           >
         </li> -->
         <li>15.6" MacBook Pro</li>
-        <!-- <li>
-          Sony 1000XM3： <a href="https://sspai.com/post/47794">降噪、音质、续航一网打尽：索尼 1000XM3 降噪耳机体验</a>
-        </li> -->
+        <li>iPhone 12 Pro Max</li>
         <li>iPhone 8 Plus RED</li>
         <li>iPad Pro 11" 2020</li>
         <li>AirPods Pro</li>

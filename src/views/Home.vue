@@ -5,12 +5,12 @@
     <h2>👨‍🎨 👨‍💻 🙋‍♂️</h2>
 
     <p>UI 设计师</p>
-    <!-- <p>
+    <p>
       * creator of
-      <a href="https://dowww.spencerwoo.com/">Dev on Windows with WSL</a>,
-      <a href="https://api.spencerwoo.com/substats">Substats</a>, and
-      <a href="https://bithesis.spencerwoo.com">BIThesis</a>
-    </p> -->
+      <a href="https://github.com/sengoku-f/Win-Automator/">Windows Automator</a>,
+      <a href="https://api.donxj.com/mktext?type=测试文字&pwd=111&mu=1">Mktext Api</a><!-- , and
+      <a href="https://bithesis.spencerwoo.com">BIThesis</a> -->
+    </p>
 
     <hr id="top-hr" />
     <h3>🎉 Where to find me:</h3>
