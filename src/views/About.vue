@@ -21,16 +21,17 @@
       </p>
 
       <GitHubCard
-        title="🥇 文字生成图片与印章 API 接口"
-        link="https://blog.donxj.com/腾讯公益-H5-微信小程序/#个人开发的-API"
+        title="🥇 MKTEXT API"
+        link="https://api.donxj.com/mktext"
         :info="dowwwInfo"
         :loading="loading"
       >
         <p>
-          因为『重返秦俑本色』中有用户输入名字然后生成印章海报的功能需求，所以开发了个 <a href="https://api.donxj.com/mktext?type=测试文字&pwd=111&mu=1">API</a>。主要使用 Python 进行实现的，使用 Python 的 Python Imaging Library 库进行文字图片处理，用 flask 搭建 Web 应用框架，最后部署到阿里云服务器进行使用。期间还需要申请域名，申请域名 ssl 证书进行 https 加密。
+          因为『<a href="https://blog.donxj.com/腾讯公益-H5-微信小程序/">重返秦俑本色</a>』中有用户输入名字然后生成印章海报的功能需求，所以开发了个 <a href="https://api.donxj.com/mktext?type=示例文字&pwd=111&mu=1">API</a>。主要使用 Python 进行实现的，使用 Python 的 Python Imaging Library 库进行文字图片处理，用 flask 搭建 Web 应用框架，最后部署到阿里云服务器进行使用。期间还需要申请域名，申请域名 ssl 证书进行 https 加密。推荐阅读：
+          <a href="https://blog.donxj.com/腾讯公益-H5-微信小程序/#个人开发的-API">从文字生成印章图片</a>
         </p>
         <p>
-          详情信息：<a href="https://blog.donxj.com/腾讯公益-H5-微信小程序/#个人开发的-API">文字生成图片 API</a>
+          API 项目主页：<a href="https://api.donxj.com/mktext">HOME | MKTEXT API</a>
         </p>
       </GitHubCard>
 
