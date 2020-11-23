@@ -8,8 +8,8 @@
     <p>
       * creator of
       <a href="https://github.com/sengoku-f/Win-Automator/">Windows Automator</a>,
-      <a href="https://api.donxj.com/mktext?type=测试文字&pwd=111&mu=1">Mktext Api</a><!-- , and
-      <a href="https://bithesis.spencerwoo.com">BIThesis</a> -->
+      <a href="https://api.donxj.com/mktext">Mktext Api</a>, and
+      <a href="https://gongyi3test.tencent-cloud.net/mystar20/">Stars Odyssey</a>
     </p>
 
     <hr id="top-hr" />
@@ -37,7 +37,7 @@
         description="📦 我的仓库"
         textColor="#FFFFFF"
         icon="github.png"
-        link="https://github.com/"
+        link="https://github.com/sengoku-f"
       />
     </div>
 

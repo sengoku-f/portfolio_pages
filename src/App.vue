@@ -40,7 +40,7 @@
           Built with ♥ and
           <a href="https://vuejs.org/">Vue.js</a> | CSS animations by <a href="http://animista.net/">Animista</a> |
           Proudly deployed on
-          <a href="https://vercel.com/spencerwoo/home">Vercel</a>
+          <a href="https://vercel.com">Vercel</a>
         </p>
         <p>
           Designed, coded, and deployed from scratch by Donxj. Open source on

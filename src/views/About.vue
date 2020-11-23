@@ -27,7 +27,7 @@
         :loading="loading"
       >
         <p>
-          因为『<a href="https://blog.donxj.com/腾讯公益-H5-微信小程序/">重返秦俑本色</a>』中有用户输入名字然后生成印章海报的功能需求，所以开发了个 <a href="https://api.donxj.com/mktext?type=示例文字&pwd=111&mu=1">API</a>。主要使用 Python 进行实现的，使用 Python 的 Python Imaging Library 库进行文字图片处理，用 flask 搭建 Web 应用框架，最后部署到阿里云服务器进行使用。期间还需要申请域名，申请域名 ssl 证书进行 https 加密。推荐阅读：
+          因为『<a href="https://blog.donxj.com/腾讯公益-H5-微信小程序/">重返秦俑本色</a>』中有用户输入名字然后生成印章海报的功能需求，所以开发了个 <a href="https://api.donxj.com/mktext">API</a>。主要使用 Python 进行实现的，使用 Python 的 Python Imaging Library 库进行文字图片处理，用 flask 搭建 Web 应用框架，最后部署到阿里云服务器进行使用。期间还需要申请域名，申请域名 ssl 证书进行 https 加密。推荐阅读：
           <a href="https://blog.donxj.com/腾讯公益-H5-微信小程序/#个人开发的-API">从文字生成印章图片</a>
         </p>
         <p>
@@ -46,21 +46,21 @@
         </p>
         <p>
           『
-        <a href="https://www.boxonline.com.cn/H5speherViewer/">
+        <a href="https://gongyi3test.tencent-cloud.net/mystar20/">
           漫游星星的秘密
         </a>
         』H5，我们希望唤醒更多公众，关注并参与到关怀自闭症儿童的公益事业中来。让公众进一步从正面、积极的角度了解自闭症儿童，感受Ta们的不一样。进一步传达壹基金海洋天堂计划陪伴、温暖，尽我所能，人人公益的愿景
         </p>
         <p>
           『
-        <a href="https://www.boxonline.com.cn/H5WarmKnights/">
+        <a href="https://gongyi3test.tencent-cloud.net/nnqst20/">
           暖暖骑士团
         </a>
-        』H5，经过 “免费午餐小善大爱‘”项目，过去7年的不断努力，贫困儿童的营养问题虽已得到一定改善，但我们希望这份爱与关怀能继续传递
+        』H5，经过 “免费午餐小善大爱”项目，过去7年的不断努力，贫困儿童的营养问题虽已得到一定改善，但我们希望这份爱与关怀能继续传递
         </p>
         <p>
           『
-        <a href="https://oss.toponepower.com/qinyong/UI/小程序二维码.jpg_auto">
+        <a href="https://cdn.donxj.com/blog/腾讯公益-H5-微信小程序/重返秦俑本色/小程序二维码.jpg_auto">
           重返秦俑本色
         </a>
         』微信小程序通过强交互的小程序（小游戏），让更多人特别是年轻人，愿意主动了解和传播秦兵马俑的文化历史，呈现秦文化内涵，并能够引发大众关注。
