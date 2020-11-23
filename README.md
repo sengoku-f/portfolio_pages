@@ -57,6 +57,12 @@ yarn run lint
 
 ---
 
+### Upload files
+
+```
+ossutil cp -r dist/ oss://donxj-hk/ --update
+```
+
 **🍌 Portfolio** ©Spencer Woo. Released under the [MIT License](./LICENSE).
 
 Authored and maintained by Spencer Woo.
