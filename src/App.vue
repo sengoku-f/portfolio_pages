@@ -19,6 +19,9 @@
           <router-link to="/">HOME</router-link>
         </div>
         <div class="link">
+          <a href="https://drive.donxj.com">DRIVE</a>
+        </div>
+        <div class="link">
           <router-link to="/about">ABOUT</router-link>
         </div>
         <!-- <div class="link">

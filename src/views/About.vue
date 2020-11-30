@@ -21,13 +21,25 @@
       </p>
 
       <GitHubCard
+        title="📽 REALURL API"
+        link="https://api.donxj.com/geturl"
+        :info="dotfilesInfo"
+        :loading="loading"
+      >
+        <p>一个用于获取国内主流直播真实流媒体链接。由 Flask 支持，托管在 <a href="https://www.aliyun.com/product/fc">Aliyun Function Compute</a> 上。并且后端提供了 POST 请求方式方便程序调用。</p>
+        <p>
+          HOME：<a href="https://api.donxj.com/mktext">REALURL</a>
+        </p>
+      </GitHubCard>
+
+      <GitHubCard
         title="🥇 MKTEXT API"
         link="https://api.donxj.com/mktext"
         :info="dowwwInfo"
         :loading="loading"
       >
         <p>
-          因为『<a href="https://blog.donxj.com/腾讯公益-H5-微信小程序/">重返秦俑本色</a>』中有用户输入名字然后生成印章海报的功能需求，所以开发了个 <a href="https://api.donxj.com/mktext">API</a>。主要使用 Python 进行实现的，使用 Python 的 Python Imaging Library 库进行文字图片处理，用 flask 搭建 Web 应用框架，最后部署到阿里云服务器进行使用。期间还需要申请域名，申请域名 ssl 证书进行 https 加密。推荐阅读：
+          因为『<a href="https://blog.donxj.com/腾讯公益-H5-微信小程序/">重返秦俑本色</a>』中有用户输入名字然后生成印章海报的功能需求，所以开发了个 <a href="https://api.donxj.com/mktext">API</a>。主要使用 Python 进行实现的，使用 Python 的 Python Imaging Library 库进行文字图片处理，用 Flask 搭建 Web 应用框架，最后部署到阿里云服务器进行使用。期间还需要申请域名，申请域名 ssl 证书进行 https 加密。推荐阅读：
           <a href="https://blog.donxj.com/腾讯公益-H5-微信小程序/#个人开发的-API">从文字生成印章图片</a>
         </p>
         <p>
@@ -137,15 +149,6 @@
           <a href="https://blog.donxj.com/Windows-工具合集/">解放生产力，自动化的工具如何提高我的工作效率</a>
         </p>
       </GitHubCard>
-
-      <!-- <GitHubCard
-        title="🎃 我的 dotfiles"
-        link="https://github.com/spencerwooo/dotfiles"
-        :info="dotfilesInfo"
-        :loading="loading"
-      >
-        <p>我的各种配置清单。从终端到 Vim，从 macOS 到 Windows，应有尽有。</p>
-      </GitHubCard> -->
 
       <h2>我的设备</h2>
       <ul>
